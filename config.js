@@ -1,6 +1,6 @@
 window.config = {
   server: 'https://api.github.com',
-  siteName: 'Eyas Liu',
+  siteName: 'Xiao Wang',
   navbar: [
     {
       label: '首页',
@@ -8,13 +8,10 @@ window.config = {
     }, {
       label: '博客',
       link: '/blog'
-    }, {
-      label: 'react',
-      link: '/blog/tag/react'
     }
   ],
   github: {
-    user: 'eyasliu',
-    repo: 'blog'
+    user: 'XiaoWangWeb',
+    repo: 'Blog'
   }
 }
